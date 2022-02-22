@@ -2,6 +2,12 @@
 
 Here are som ides to get you started: 
 
+# Langauges and Tools
+
+### Front-End
+
+### Back-End
+
 
 # GitHub Stats
 
