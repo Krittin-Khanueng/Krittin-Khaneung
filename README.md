@@ -1,6 +1,9 @@
-# Hi there :bowtie:
+# Hi there 👋
 
-Here are som ides to get you started: 
+My name is Krittin Kanung.
+
+
+I'm a back-end developer.
 
 # Langauges and Tools
 
