@@ -7,18 +7,25 @@ My name is Krittin Kanung.
 
 I'm a back-end developer.
 
-# Langauges and Tools
+# Langauges
 
 ### Front-End
 
 ### Back-End
 
 
-# GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krittin-Khanueng)](https://github.com/anuraghazra/github-readme-stats)
+# Tools
+## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krittin-Khanueng)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krittin-Khanueng&langs_count=10&theme=tokyonight&layout=compact" alt="Krittin Khaneung :: Top Langs" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Krittin-Khanueng&show_icons=true&theme=synthwave" alt="Krittin Khaneung
+  :: Profile Stats" /></p>
+
+
 
 
 
