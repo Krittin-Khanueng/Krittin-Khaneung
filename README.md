@@ -2,10 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krittin-Khaneung)
 
-My name is Krittin Kanung.
-
-
-I'm a back-end developer.
+<img src="https://github.com/Krittin-Khanueng/Krittin-Khanueng/edit/main/svg.svg">
 
 # Langauges
 
