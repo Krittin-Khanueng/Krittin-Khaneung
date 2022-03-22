@@ -1,5 +1,7 @@
 
-<img src="https://github.com/Krittin-Khanueng/Krittin-Khanueng/edit/main/svg.svg">
+<img src="https://github.com/Krittin-Khanueng/Krittin-Khanueng/blob/main/github-header-image.png">
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krittin-Khaneung)
 
 
