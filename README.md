@@ -1,8 +1,7 @@
-# Hi there 👋
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krittin-Khaneung)
 
 <img src="https://github.com/Krittin-Khanueng/Krittin-Khanueng/edit/main/svg.svg">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krittin-Khaneung)
+
 
 # Langauges
 
