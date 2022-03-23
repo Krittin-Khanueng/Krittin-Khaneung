@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krittin Khanueng</h1>
+<img align="center" src="https://github.com/Krittin-Khanueng/Krittin-Khanueng/blob/main/github-header-image.png">
 <h3 align="center">A passionate backend developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krittin-khanueng&label=Profile%20views&color=0e75b6&style=flat" alt="krittin-khanueng" /> </p>
